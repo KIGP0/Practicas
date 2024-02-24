@@ -1,5 +1,6 @@
-<h1><img src="https://www.unam.mx/sites/default/files/images/unam.svg" width="100"> UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO <img src="https://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudo_fi_color.png" width="93"></h1>
-<h2><p>FACULTAD DE INGENIERÍA</p></h2>
+<h1><img src="https://www.unam.mx/sites/default/files/images/unam.svg" width="100"> <img src="https://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudo_fi_color.png" width="93"></h1>
+<h2>UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO</h2>
+<h2>FACULTAD DE INGENIERÍA</h2>
 <h2>DIVISIÓN DE INGENIERÍA ELÉCTRICA</h2>
 <h2>INGENIERÍA EN COMPUTACIÓN</h2>
 <h2>LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA</h2>
